@@ -2,10 +2,10 @@
 cp /usr/share/zoneinfo/Asia/Dubai /etc/localtime
 
 #Database Details
-db_host='199.192.29.142';
-db_user='mtunnel_mttunnelnew';
-db_pass='panelnew@@';
-db_name='mtunnel_mttunnelnew';
+db_host='174.138.184.18';
+db_user='mtunnelv_dbpanel';
+db_pass='eGLE6w6Vtqjp8rh4';
+db_name='mtunnelv_dbpanel';
 
 install_require()
 {
