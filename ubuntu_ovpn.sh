@@ -1,10 +1,10 @@
 #!/bin/bash
 cp /usr/share/zoneinfo/Asia/Riyadh /etc/localtime
 #Database Details
-HOST='199.192.29.142';
-USER='mtunnel_mttunnelnew';
-PASS='panelnew@@';
-DBNAME='mtunnel_mttunnelnew';
+HOST='174.138.184.18';
+USER='mtunnelv_dbpanel';
+PASS='eGLE6w6Vtqjp8rh4';
+DBNAME='mtunnelv_dbpanel';
 
 install_require()
 {
