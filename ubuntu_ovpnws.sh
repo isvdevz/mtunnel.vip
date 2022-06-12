@@ -2,9 +2,9 @@
 cp /usr/share/zoneinfo/Asia/Riyadh /etc/localtime
 #Database Details
 HOST='174.138.184.18';
-USER='mtunnelv_dbpanel';
-PASS='eGLE6w6Vtqjp8rh4';
-DBNAME='mtunnelv_dbpanel';
+USER='mtunnelv_dbsql';
+PASS='sC8hdfemJmZg';
+DBNAME='mtunnelv_dbsql';
 
 install_require()
 {
