@@ -3,9 +3,9 @@ cp /usr/share/zoneinfo/Asia/Dubai /etc/localtime
 
 #Database Details
 db_host='174.138.184.18';
-db_user='mtunnelv_dbsql';
-db_pass='sC8hdfemJmZg';
-db_name='mtunnelv_dbsql';
+db_user='mtunnelv_dbpanel';
+db_pass='.0+FoBeH29sJ';
+db_name='mtunnelv_dbpanel';
 
 install_require()
 {
